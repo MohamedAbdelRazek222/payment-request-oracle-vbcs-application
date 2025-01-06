@@ -23,7 +23,3 @@ To deploy and use this application, ensure the following:
 3. Appropriate APIs for invoices and payment requests are exposed and accessible.  
 4. User access permissions are in place for both OIC and Fusion.  
 
-## Installation Steps  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-repo-name/hfc-payment-request.git
