@@ -21,5 +21,8 @@ To deploy and use this application, ensure the following:
 1. Oracle Visual Builder is set up and configured.  
 2. Oracle Integration Cloud (OIC) is connected to Oracle Fusion Applications.  
 3. Appropriate APIs for invoices and payment requests are exposed and accessible.  
-4. User access permissions are in place for both OIC and Fusion.  
+4. User access permissions are in place for both OIC and Fusion.
+
+5. ![13](https://github.com/user-attachments/assets/80e01aba-bda7-4c8e-97b8-c47065ad35e8)
+
 
