@@ -1,4 +1,4 @@
-#  Payment Request Application vbcs application
+#  Payment Request  vbcs application
 
 ## Overview  
 The **HFC Payment Request** app is a VBCS (Oracle Visual Builder Cloud Service) application integrated with Oracle Fusion via Oracle Integration Cloud (OIC). It provides a comprehensive platform for searching, creating, and managing invoices and payment requests directly connected to the Fusion system.  
