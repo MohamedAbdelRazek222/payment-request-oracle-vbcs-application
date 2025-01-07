@@ -23,6 +23,10 @@ To deploy and use this application, ensure the following:
 3. Appropriate APIs for invoices and payment requests are exposed and accessible.  
 4. User access permissions are in place for both OIC and Fusion.
 
+## Notes
+- This project is built using Oracle VBCS, and no source code is available for upload due to its cloud-native nature.
+- For more details, visit the Oracle VBCS documentation: [Oracle VBCS Documentation](https://www.oracle.com).
+
 ## Images
 
 
